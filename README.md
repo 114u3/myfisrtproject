@@ -5,7 +5,7 @@
                <title>página de Kauê</title>	
           </head>	
           <body>		
-               <h1 class="titulo">Sobre mim</h1>		
-               <p id="paragrafo">Amo rock n’ roll</p>	
+               <h1 class="titulo">olá</h1>		
+               <p id="paragrafo">estou tentando aprender a roubar dados</p>	
           </body>
 </html>
